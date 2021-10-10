@@ -1,0 +1,60 @@
+.header{
+    background-color: blue;
+    height: 80px;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.wrapper{
+    overflow: hidden;
+    border: 20px solid skyblue;
+}
+.contact{
+    background-color: red;
+    height: 150px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 60px;
+}
+.blog{
+    background-color: seagreen;
+    height: 150px;
+    width: 50%;
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 60px;
+}
+.container{
+    overflow: hidden;
+}
+.pink{
+    background-color: pink;
+    height: 150px;
+    width: 33.33%;
+    float: left;
+}
+.violet{
+    background-color: violet;
+    height: 150px;
+    width: 33.33%;
+    float: left;
+}
+.yellow{background-color: yellow;
+    height: 150px;
+    width: 33.33%;
+    float: left;
+}
+    
+.footer{
+    background-color: slateblue;
+    height: 50px;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    padding-top: 20px;
+
+}
